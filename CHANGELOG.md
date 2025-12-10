@@ -4,165 +4,165 @@
 
 **Other changes:**
 
-- build(deps): bump better-sqlite\@12.5.0 (● [b1a5c4b](https://github.com/softvisio-node/sqlite/commit/b1a5c4b); 👬 zdm)
+- build(deps): bump better-sqlite\@12.5.0 (● [b1a5c4b](https://github.com/c0rejs/sqlite/commit/b1a5c4b); 👬 zdm)
 
-- build(deps): bump sqlite\@3.51.1 (● [5d52fd6](https://github.com/softvisio-node/sqlite/commit/5d52fd6); 👬 zdm)
+- build(deps): bump sqlite\@3.51.1 (● [5d52fd6](https://github.com/c0rejs/sqlite/commit/5d52fd6); 👬 zdm)
 
-Compare with the previous release: [v1.28.21](https://github.com/softvisio-node/sqlite/compare/v1.28.21...v1.28.22)
+Compare with the previous release: [v1.28.21](https://github.com/c0rejs/sqlite/compare/v1.28.21...v1.28.22)
 
 ### v1.28.21 (2025-11-23)
 
 **Other changes:**
 
-- build(deps): bump better-sqlite\@12.4.6 (● [0bd507d](https://github.com/softvisio-node/sqlite/commit/0bd507d); 👬 zdm)
+- build(deps): bump better-sqlite\@12.4.6 (● [0bd507d](https://github.com/c0rejs/sqlite/commit/0bd507d); 👬 zdm)
 
-Compare with the previous release: [v1.28.20](https://github.com/softvisio-node/sqlite/compare/v1.28.20...v1.28.21)
+Compare with the previous release: [v1.28.20](https://github.com/c0rejs/sqlite/compare/v1.28.20...v1.28.21)
 
 ### v1.28.20 (2025-11-21)
 
 **Other changes:**
 
-- build(deps): bump actions/checkout\@v6 (● [d5d51eb](https://github.com/softvisio-node/sqlite/commit/d5d51eb); 👬 zdm)
+- build(deps): bump actions/checkout\@v6 (● [d5d51eb](https://github.com/c0rejs/sqlite/commit/d5d51eb); 👬 zdm)
 
-- build(deps): bump better-sqlite\@12.4.5 (● [62f7fc3](https://github.com/softvisio-node/sqlite/commit/62f7fc3); 👬 zdm)
+- build(deps): bump better-sqlite\@12.4.5 (● [62f7fc3](https://github.com/c0rejs/sqlite/commit/62f7fc3); 👬 zdm)
 
-Compare with the previous release: [v1.28.19](https://github.com/softvisio-node/sqlite/compare/v1.28.19...v1.28.20)
+Compare with the previous release: [v1.28.19](https://github.com/c0rejs/sqlite/compare/v1.28.19...v1.28.20)
 
 ### v1.28.19 (2025-11-05)
 
 **Other changes:**
 
-- build(deps): bump sqlite v3.51.0 (● [b495f37](https://github.com/softvisio-node/sqlite/commit/b495f37); 👬 zdm)
+- build(deps): bump sqlite v3.51.0 (● [b495f37](https://github.com/c0rejs/sqlite/commit/b495f37); 👬 zdm)
 
-Compare with the previous release: [v1.28.18](https://github.com/softvisio-node/sqlite/compare/v1.28.18...v1.28.19)
+Compare with the previous release: [v1.28.18](https://github.com/c0rejs/sqlite/compare/v1.28.18...v1.28.19)
 
 ### v1.28.18 (2025-10-31)
 
 **Bug fixes:**
 
-- \[PATCH] fix: fix spawn shell args (● [8171980](https://github.com/softvisio-node/sqlite/commit/8171980); 👬 zdm)
+- \[PATCH] fix: fix spawn shell args (● [8171980](https://github.com/c0rejs/sqlite/commit/8171980); 👬 zdm)
 
-Compare with the previous release: [v1.28.17](https://github.com/softvisio-node/sqlite/compare/v1.28.17...v1.28.18)
+Compare with the previous release: [v1.28.17](https://github.com/c0rejs/sqlite/compare/v1.28.17...v1.28.18)
 
 ### v1.28.17 (2025-10-15)
 
 **Other changes:**
 
-- build(deps): bump actions/setup-node\@6 (● [903447e](https://github.com/softvisio-node/sqlite/commit/903447e); 👬 zdm)
+- build(deps): bump actions/setup-node\@6 (● [903447e](https://github.com/c0rejs/sqlite/commit/903447e); 👬 zdm)
 
-Compare with the previous release: [v1.28.16](https://github.com/softvisio-node/sqlite/compare/v1.28.16...v1.28.17)
+Compare with the previous release: [v1.28.16](https://github.com/c0rejs/sqlite/compare/v1.28.16...v1.28.17)
 
 ### v1.28.16 (2025-09-23)
 
 **Other changes:**
 
-- build(deps): bump better-sqlite v12.4.1 (● [0b6f238](https://github.com/softvisio-node/sqlite/commit/0b6f238); 👬 zdm)
+- build(deps): bump better-sqlite v12.4.1 (● [0b6f238](https://github.com/c0rejs/sqlite/commit/0b6f238); 👬 zdm)
 
-Compare with the previous release: [v1.28.15](https://github.com/softvisio-node/sqlite/compare/v1.28.15...v1.28.16)
+Compare with the previous release: [v1.28.15](https://github.com/c0rejs/sqlite/compare/v1.28.15...v1.28.16)
 
 ### v1.28.15 (2025-09-05)
 
 **Other changes:**
 
-- build: bump actions/setup-node\@v5 (● [78123ae](https://github.com/softvisio-node/sqlite/commit/78123ae); 👬 zdm)
+- build: bump actions/setup-node\@v5 (● [78123ae](https://github.com/c0rejs/sqlite/commit/78123ae); 👬 zdm)
 
-Compare with the previous release: [v1.28.14](https://github.com/softvisio-node/sqlite/compare/v1.28.14...v1.28.15)
+Compare with the previous release: [v1.28.14](https://github.com/c0rejs/sqlite/compare/v1.28.14...v1.28.15)
 
 ### v1.28.14 (2025-08-12)
 
 **Other changes:**
 
-- build(deps): bunp actions/checkout\@v5 (● [a47ea25](https://github.com/softvisio-node/sqlite/commit/a47ea25); 👬 zdm)
+- build(deps): bunp actions/checkout\@v5 (● [a47ea25](https://github.com/c0rejs/sqlite/commit/a47ea25); 👬 zdm)
 
-Compare with the previous release: [v1.28.13](https://github.com/softvisio-node/sqlite/compare/v1.28.13...v1.28.14)
+Compare with the previous release: [v1.28.13](https://github.com/c0rejs/sqlite/compare/v1.28.13...v1.28.14)
 
 ### v1.28.13 (2025-08-02)
 
 **Other changes:**
 
-- build(deps): bump sqlite v3.50.4 (● [47a5ad1](https://github.com/softvisio-node/sqlite/commit/47a5ad1); 👬 zdm)
+- build(deps): bump sqlite v3.50.4 (● [47a5ad1](https://github.com/c0rejs/sqlite/commit/47a5ad1); 👬 zdm)
 
-Compare with the previous release: [v1.28.12](https://github.com/softvisio-node/sqlite/compare/v1.28.12...v1.28.13)
+Compare with the previous release: [v1.28.12](https://github.com/c0rejs/sqlite/compare/v1.28.12...v1.28.13)
 
 ### v1.28.12 (2025-07-23)
 
 **Other changes:**
 
-- style: update .npmrc (● [8a1c59f](https://github.com/softvisio-node/sqlite/commit/8a1c59f); 👬 zdm)
+- style: update .npmrc (● [8a1c59f](https://github.com/c0rejs/sqlite/commit/8a1c59f); 👬 zdm)
 
-Compare with the previous release: [v1.28.11](https://github.com/softvisio-node/sqlite/compare/v1.28.11...v1.28.12)
+Compare with the previous release: [v1.28.11](https://github.com/c0rejs/sqlite/compare/v1.28.11...v1.28.12)
 
 ### v1.28.11 (2025-07-23)
 
 **Bug fixes:**
 
-- \[PATCH] fix: update editorconfig (● [a05fb94](https://github.com/softvisio-node/sqlite/commit/a05fb94); 👬 zdm)
+- \[PATCH] fix: update editorconfig (● [a05fb94](https://github.com/c0rejs/sqlite/commit/a05fb94); 👬 zdm)
 
-Compare with the previous release: [v1.28.10](https://github.com/softvisio-node/sqlite/compare/v1.28.10...v1.28.11)
+Compare with the previous release: [v1.28.10](https://github.com/c0rejs/sqlite/compare/v1.28.10...v1.28.11)
 
 ### v1.28.10 (2025-07-22)
 
 **Bug fixes:**
 
-- \[PATCH] fix: fix editorconfig (● [7b0157a](https://github.com/softvisio-node/sqlite/commit/7b0157a); 👬 zdm)
+- \[PATCH] fix: fix editorconfig (● [7b0157a](https://github.com/c0rejs/sqlite/commit/7b0157a); 👬 zdm)
 
-Compare with the previous release: [v1.28.9](https://github.com/softvisio-node/sqlite/compare/v1.28.9...v1.28.10)
+Compare with the previous release: [v1.28.9](https://github.com/c0rejs/sqlite/compare/v1.28.9...v1.28.10)
 
 ### v1.28.9 (2025-07-18)
 
 **Other changes:**
 
-- build(deps): bump sqlite v3.50.3 (● [f20e5dc](https://github.com/softvisio-node/sqlite/commit/f20e5dc); 👬 zdm)
+- build(deps): bump sqlite v3.50.3 (● [f20e5dc](https://github.com/c0rejs/sqlite/commit/f20e5dc); 👬 zdm)
 
-Compare with the previous release: [v1.28.8](https://github.com/softvisio-node/sqlite/compare/v1.28.8...v1.28.9)
+Compare with the previous release: [v1.28.8](https://github.com/c0rejs/sqlite/compare/v1.28.8...v1.28.9)
 
 ### v1.28.8 (2025-07-16)
 
 **Other changes:**
 
-- docs: update (● [9ab0c20](https://github.com/softvisio-node/sqlite/commit/9ab0c20); 👬 zdm)
+- docs: update (● [9ab0c20](https://github.com/c0rejs/sqlite/commit/9ab0c20); 👬 zdm)
 
-Compare with the previous release: [v1.28.7](https://github.com/softvisio-node/sqlite/compare/v1.28.7...v1.28.8)
+Compare with the previous release: [v1.28.7](https://github.com/c0rejs/sqlite/compare/v1.28.7...v1.28.8)
 
 ### v1.28.7 (2025-06-30)
 
 **Other changes:**
 
-- build(deps): bump better-sqlite v12.2.0 (● [9321cff](https://github.com/softvisio-node/sqlite/commit/9321cff); 👬 zdm)
+- build(deps): bump better-sqlite v12.2.0 (● [9321cff](https://github.com/c0rejs/sqlite/commit/9321cff); 👬 zdm)
 
-Compare with the previous release: [v1.28.6](https://github.com/softvisio-node/sqlite/compare/v1.28.6...v1.28.7)
+Compare with the previous release: [v1.28.6](https://github.com/c0rejs/sqlite/compare/v1.28.6...v1.28.7)
 
 ### v1.28.6 (2025-06-28)
 
 **Other changes:**
 
-- build(deps): bump sqlite v3.50.2 (● [604b8ab](https://github.com/softvisio-node/sqlite/commit/604b8ab); 👬 zdm)
+- build(deps): bump sqlite v3.50.2 (● [604b8ab](https://github.com/c0rejs/sqlite/commit/604b8ab); 👬 zdm)
 
-Compare with the previous release: [v1.28.5](https://github.com/softvisio-node/sqlite/compare/v1.28.5...v1.28.6)
+Compare with the previous release: [v1.28.5](https://github.com/c0rejs/sqlite/compare/v1.28.5...v1.28.6)
 
 ### v1.28.5 (2025-06-25)
 
 **Other changes:**
 
-- build(deps): update better-sqlite3 v12.1.1 (● [4c50896](https://github.com/softvisio-node/sqlite/commit/4c50896); 👬 zdm)
+- build(deps): update better-sqlite3 v12.1.1 (● [4c50896](https://github.com/c0rejs/sqlite/commit/4c50896); 👬 zdm)
 
-Compare with the previous release: [v1.28.4](https://github.com/softvisio-node/sqlite/compare/v1.28.4...v1.28.5)
+Compare with the previous release: [v1.28.4](https://github.com/c0rejs/sqlite/compare/v1.28.4...v1.28.5)
 
 ### v1.28.4 (2025-06-24)
 
 **Other changes:**
 
-- build(deps): update better-sqlite3 v12.1.0 (● [8bf1c03](https://github.com/softvisio-node/sqlite/commit/8bf1c03); 👬 zdm)
+- build(deps): update better-sqlite3 v12.1.0 (● [8bf1c03](https://github.com/c0rejs/sqlite/commit/8bf1c03); 👬 zdm)
 
-Compare with the previous release: [v1.28.3](https://github.com/softvisio-node/sqlite/compare/v1.28.3...v1.28.4)
+Compare with the previous release: [v1.28.3](https://github.com/c0rejs/sqlite/compare/v1.28.3...v1.28.4)
 
 ### v1.28.3 (2025-06-21)
 
 **Other changes:**
 
-- build(deps): update better-sqlite3 v12.0.0 (● [4ddfed5](https://github.com/softvisio-node/sqlite/commit/4ddfed5); 👬 zdm)
+- build(deps): update better-sqlite3 v12.0.0 (● [4ddfed5](https://github.com/c0rejs/sqlite/commit/4ddfed5); 👬 zdm)
 
-Compare with the previous release: [v1.28.2](https://github.com/softvisio-node/sqlite/compare/v1.28.2...v1.28.3)
+Compare with the previous release: [v1.28.2](https://github.com/c0rejs/sqlite/compare/v1.28.2...v1.28.3)
 
 ### v1.28.2 (2025-06-07)
 
@@ -170,7 +170,7 @@ Compare with the previous release: [v1.28.2](https://github.com/softvisio-node/s
 
 - \[PATCH] chore: update cli config (👬 zdm)
 
-Compare with the previous release: [v1.28.1](https://github.com/softvisio-node/sqlite/compare/v1.28.1...v1.28.2)
+Compare with the previous release: [v1.28.1](https://github.com/c0rejs/sqlite/compare/v1.28.1...v1.28.2)
 
 ### v1.28.1 (2025-06-06)
 
@@ -178,7 +178,7 @@ Compare with the previous release: [v1.28.1](https://github.com/softvisio-node/s
 
 - \[PATCH] chore: update sqlite 3.50.1 (👬 zdm)
 
-Compare with the previous release: [v1.28.0](https://github.com/softvisio-node/sqlite/compare/v1.28.0...v1.28.1)
+Compare with the previous release: [v1.28.0](https://github.com/c0rejs/sqlite/compare/v1.28.0...v1.28.1)
 
 ### v1.28.0 (2025-06-01)
 
@@ -186,7 +186,7 @@ Compare with the previous release: [v1.28.0](https://github.com/softvisio-node/s
 
 - \[MINOR] feat: update sqlite version (👬 zdm)
 
-Compare with the previous release: [v1.27.1](https://github.com/softvisio-node/sqlite/compare/v1.27.1...v1.28.0)
+Compare with the previous release: [v1.27.1](https://github.com/c0rejs/sqlite/compare/v1.27.1...v1.28.0)
 
 ### v1.27.1 (2025-06-01)
 
@@ -194,7 +194,7 @@ Compare with the previous release: [v1.27.1](https://github.com/softvisio-node/s
 
 - \[PATCH] chore: update docs (👬 zdm)
 
-Compare with the previous release: [v1.27.0](https://github.com/softvisio-node/sqlite/compare/v1.27.0...v1.27.1)
+Compare with the previous release: [v1.27.0](https://github.com/c0rejs/sqlite/compare/v1.27.0...v1.27.1)
 
 ### 1.27.0 (2025-05-08)
 
@@ -206,7 +206,7 @@ Other changes:
 
 - chore: update package dependencies
 
-Compare with the previous release: [`v1.26.2...v1.27.0`](https://github.com/softvisio-node/sqlite/compare/v1.26.2...v1.27.0)
+Compare with the previous release: [`v1.26.2...v1.27.0`](https://github.com/c0rejs/sqlite/compare/v1.26.2...v1.27.0)
 
 ### 1.26.2 (2025-05-07)
 
@@ -214,7 +214,7 @@ Fixes:
 
 - fix: sqlite v3.49.2
 
-Compare with the previous release: [`v1.26.1...v1.26.2`](https://github.com/softvisio-node/sqlite/compare/v1.26.1...v1.26.2)
+Compare with the previous release: [`v1.26.1...v1.26.2`](https://github.com/c0rejs/sqlite/compare/v1.26.1...v1.26.2)
 
 ### 1.26.1 (2025-03-26)
 
@@ -222,7 +222,7 @@ Other changes:
 
 - chore: update markdown code tags
 
-Compare with the previous release: [`v1.26.0...v1.26.1`](https://github.com/softvisio-node/sqlite/compare/v1.26.0...v1.26.1)
+Compare with the previous release: [`v1.26.0...v1.26.1`](https://github.com/c0rejs/sqlite/compare/v1.26.0...v1.26.1)
 
 ### 1.26.0 (2025-03-18)
 
@@ -230,7 +230,7 @@ Features:
 
 - feat: better-sqlite3 v11.9.1
 
-Compare with the previous release: [`v1.25.0...v1.26.0`](https://github.com/softvisio-node/sqlite/compare/v1.25.0...v1.26.0)
+Compare with the previous release: [`v1.25.0...v1.26.0`](https://github.com/c0rejs/sqlite/compare/v1.25.0...v1.26.0)
 
 ### 1.25.0 (2025-03-14)
 
@@ -238,7 +238,7 @@ Features:
 
 - feat: better-sqlite3 v11.9.0
 
-Compare with the previous release: [`v1.24.7...v1.25.0`](https://github.com/softvisio-node/sqlite/compare/v1.24.7...v1.25.0)
+Compare with the previous release: [`v1.24.7...v1.25.0`](https://github.com/c0rejs/sqlite/compare/v1.24.7...v1.25.0)
 
 ### 1.24.7 (2025-03-04)
 
@@ -246,7 +246,7 @@ Other changes:
 
 - chore: update package metadata
 
-Compare with the previous release: [`v1.24.6...v1.24.7`](https://github.com/softvisio-node/sqlite/compare/v1.24.6...v1.24.7)
+Compare with the previous release: [`v1.24.6...v1.24.7`](https://github.com/c0rejs/sqlite/compare/v1.24.6...v1.24.7)
 
 ### 1.24.6 (2025-03-04)
 
@@ -254,7 +254,7 @@ Other changes:
 
 - chore: update package metadata
 
-Compare with the previous release: [`v1.24.5...v1.24.6`](https://github.com/softvisio-node/sqlite/compare/v1.24.5...v1.24.6)
+Compare with the previous release: [`v1.24.5...v1.24.6`](https://github.com/c0rejs/sqlite/compare/v1.24.5...v1.24.6)
 
 ### 1.24.5 (2025-03-01)
 
@@ -262,7 +262,7 @@ Other changes:
 
 - chore: update package metadata
 
-Compare with the previous release: [`v1.24.4...v1.24.5`](https://github.com/softvisio-node/sqlite/compare/v1.24.4...v1.24.5)
+Compare with the previous release: [`v1.24.4...v1.24.5`](https://github.com/c0rejs/sqlite/compare/v1.24.4...v1.24.5)
 
 ### 1.24.4 (2025-02-27)
 
@@ -270,7 +270,7 @@ Other changes:
 
 - chore: add editorconfig yaml
 
-Compare with the previous release: [`v1.24.3...v1.24.4`](https://github.com/softvisio-node/sqlite/compare/v1.24.3...v1.24.4)
+Compare with the previous release: [`v1.24.3...v1.24.4`](https://github.com/c0rejs/sqlite/compare/v1.24.3...v1.24.4)
 
 ### 1.24.3 (2025-02-26)
 
@@ -278,7 +278,7 @@ Other changes:
 
 - chore: update editorconfig
 
-Compare with the previous release: [`v1.24.2...v1.24.3`](https://github.com/softvisio-node/sqlite/compare/v1.24.2...v1.24.3)
+Compare with the previous release: [`v1.24.2...v1.24.3`](https://github.com/c0rejs/sqlite/compare/v1.24.2...v1.24.3)
 
 ### 1.24.2 (2025-02-19)
 
@@ -286,7 +286,7 @@ Other changes:
 
 - chore: update cli config
 
-Compare with the previous release: [`v1.24.1...v1.24.2`](https://github.com/softvisio-node/sqlite/compare/v1.24.1...v1.24.2)
+Compare with the previous release: [`v1.24.1...v1.24.2`](https://github.com/c0rejs/sqlite/compare/v1.24.1...v1.24.2)
 
 ### 1.24.1 (2025-02-18)
 
@@ -294,7 +294,7 @@ Fixes:
 
 - fix: update sqlute v3.49.1
 
-Compare with the previous release: [`v1.24.0...v1.24.1`](https://github.com/softvisio-node/sqlite/compare/v1.24.0...v1.24.1)
+Compare with the previous release: [`v1.24.0...v1.24.1`](https://github.com/c0rejs/sqlite/compare/v1.24.0...v1.24.1)
 
 ### 1.24.0 (2025-02-06)
 
@@ -302,7 +302,7 @@ Features:
 
 - feat: sqlite 3.49.0
 
-Compare with the previous release: [`v1.23.0...v1.24.0`](https://github.com/softvisio-node/sqlite/compare/v1.23.0...v1.24.0)
+Compare with the previous release: [`v1.23.0...v1.24.0`](https://github.com/c0rejs/sqlite/compare/v1.23.0...v1.24.0)
 
 ### 1.23.0 (2025-02-03)
 
@@ -310,7 +310,7 @@ Features:
 
 - feat: refactor read / write config
 
-Compare with the previous release: [`v1.22.1...v1.23.0`](https://github.com/softvisio-node/sqlite/compare/v1.22.1...v1.23.0)
+Compare with the previous release: [`v1.22.1...v1.23.0`](https://github.com/c0rejs/sqlite/compare/v1.22.1...v1.23.0)
 
 ### 1.22.1 (2025-01-18)
 
@@ -318,7 +318,7 @@ Fixes:
 
 - fix: update better-sqlite v11.8.1
 
-Compare with the previous release: [`v1.22.0...v1.22.1`](https://github.com/softvisio-node/sqlite/compare/v1.22.0...v1.22.1)
+Compare with the previous release: [`v1.22.0...v1.22.1`](https://github.com/c0rejs/sqlite/compare/v1.22.0...v1.22.1)
 
 ### 1.22.0 (2025-01-15)
 
@@ -326,7 +326,7 @@ Features:
 
 - feat: better-sqlite3 v11.8.0
 
-Compare with the previous release: [`v1.21.0...v1.22.0`](https://github.com/softvisio-node/sqlite/compare/v1.21.0...v1.22.0)
+Compare with the previous release: [`v1.21.0...v1.22.0`](https://github.com/c0rejs/sqlite/compare/v1.21.0...v1.22.0)
 
 ### 1.21.0 (2025-01-14)
 
@@ -334,7 +334,7 @@ Features:
 
 - feat: sqlite 3.48.0
 
-Compare with the previous release: [`v1.20.7...v1.21.0`](https://github.com/softvisio-node/sqlite/compare/v1.20.7...v1.21.0)
+Compare with the previous release: [`v1.20.7...v1.21.0`](https://github.com/c0rejs/sqlite/compare/v1.20.7...v1.21.0)
 
 ### 1.20.7 (2025-01-08)
 
@@ -342,7 +342,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.20.6 ... v1.20.7](https://github.com/softvisio-node/sqlite/compare/v1.20.6...v1.20.7)
+[Compare with the previous release: v1.20.6 ... v1.20.7](https://github.com/c0rejs/sqlite/compare/v1.20.6...v1.20.7)
 
 ### 1.20.6 (2025-01-08)
 
@@ -351,7 +351,7 @@ Other changes:
 - chore: fix external resource id
 - chore: fix resource id
 
-[Compare with the previous release: v1.20.5 ... v1.20.6](https://github.com/softvisio-node/sqlite/compare/v1.20.5...v1.20.6)
+[Compare with the previous release: v1.20.5 ... v1.20.6](https://github.com/c0rejs/sqlite/compare/v1.20.5...v1.20.6)
 
 ### 1.20.5 (2025-01-06)
 
@@ -359,7 +359,7 @@ Other changes:
 
 - chore: remove linux platform installer
 
-[Compare with the previous release: v1.20.4 ... v1.20.5](https://github.com/softvisio-node/sqlite/compare/v1.20.4...v1.20.5)
+[Compare with the previous release: v1.20.4 ... v1.20.5](https://github.com/c0rejs/sqlite/compare/v1.20.4...v1.20.5)
 
 ### 1.20.4 (2025-01-06)
 
@@ -367,7 +367,7 @@ Other changes:
 
 - chore: fix external resource location option
 
-[Compare with the previous release: v1.20.3 ... v1.20.4](https://github.com/softvisio-node/sqlite/compare/v1.20.3...v1.20.4)
+[Compare with the previous release: v1.20.3 ... v1.20.4](https://github.com/c0rejs/sqlite/compare/v1.20.3...v1.20.4)
 
 ### 1.20.3 (2025-01-06)
 
@@ -375,7 +375,7 @@ Other changes:
 
 - chore: add external resource location option
 
-[Compare with the previous release: v1.20.2 ... v1.20.3](https://github.com/softvisio-node/sqlite/compare/v1.20.2...v1.20.3)
+[Compare with the previous release: v1.20.2 ... v1.20.3](https://github.com/c0rejs/sqlite/compare/v1.20.2...v1.20.3)
 
 ### 1.20.2 (2025-01-06)
 
@@ -383,7 +383,7 @@ Fixes:
 
 - fix: better-sqlite v11.7.2
 
-[Compare with the previous release: v1.20.1 ... v1.20.2](https://github.com/softvisio-node/sqlite/compare/v1.20.1...v1.20.2)
+[Compare with the previous release: v1.20.1 ... v1.20.2](https://github.com/c0rejs/sqlite/compare/v1.20.1...v1.20.2)
 
 ### 1.20.1 (2025-01-04)
 
@@ -391,7 +391,7 @@ Other changes:
 
 - chore: use async glob
 
-[Compare with the previous release: v1.20.0 ... v1.20.1](https://github.com/softvisio-node/sqlite/compare/v1.20.0...v1.20.1)
+[Compare with the previous release: v1.20.0 ... v1.20.1](https://github.com/c0rejs/sqlite/compare/v1.20.0...v1.20.1)
 
 ### 1.20.0 (2025-01-03)
 
@@ -399,7 +399,7 @@ Features:
 
 - feat: add async glob
 
-[Compare with the previous release: v1.19.1 ... v1.20.0](https://github.com/softvisio-node/sqlite/compare/v1.19.1...v1.20.0)
+[Compare with the previous release: v1.19.1 ... v1.20.0](https://github.com/c0rejs/sqlite/compare/v1.19.1...v1.20.0)
 
 ### 1.19.1 (2024-12-30)
 
@@ -407,7 +407,7 @@ Other changes:
 
 - chore: add external resource autoUpdate option
 
-[Compare with the previous release: v1.19.0 ... v1.19.1](https://github.com/softvisio-node/sqlite/compare/v1.19.0...v1.19.1)
+[Compare with the previous release: v1.19.0 ... v1.19.1](https://github.com/c0rejs/sqlite/compare/v1.19.0...v1.19.1)
 
 ### 1.19.0 (2024-12-08)
 
@@ -415,7 +415,7 @@ Features:
 
 - feat: better-sqlite3 v11.7.0
 
-[Compare with the previous release: v1.18.7 ... v1.19.0](https://github.com/softvisio-node/sqlite/compare/v1.18.7...v1.19.0)
+[Compare with the previous release: v1.18.7 ... v1.19.0](https://github.com/c0rejs/sqlite/compare/v1.18.7...v1.19.0)
 
 ### 1.18.7 (2024-12-07)
 
@@ -423,7 +423,7 @@ Other changes:
 
 - chore: set yaml indent to 4 spaces
 
-[Compare with the previous release: v1.18.6 ... v1.18.7](https://github.com/softvisio-node/sqlite/compare/v1.18.6...v1.18.7)
+[Compare with the previous release: v1.18.6 ... v1.18.7](https://github.com/c0rejs/sqlite/compare/v1.18.6...v1.18.7)
 
 ### 1.18.6 (2024-12-04)
 
@@ -431,7 +431,7 @@ Other changes:
 
 - chore: update external resources path
 
-[Compare with the previous release: v1.18.5 ... v1.18.6](https://github.com/softvisio-node/sqlite/compare/v1.18.5...v1.18.6)
+[Compare with the previous release: v1.18.5 ... v1.18.6](https://github.com/c0rejs/sqlite/compare/v1.18.5...v1.18.6)
 
 ### 1.18.5 (2024-12-04)
 
@@ -439,7 +439,7 @@ Other changes:
 
 - chore: update package dependencies
 
-[Compare with the previous release: v1.18.4 ... v1.18.5](https://github.com/softvisio-node/sqlite/compare/v1.18.4...v1.18.5)
+[Compare with the previous release: v1.18.4 ... v1.18.5](https://github.com/c0rejs/sqlite/compare/v1.18.4...v1.18.5)
 
 ### 1.18.4 (2024-11-27)
 
@@ -447,7 +447,7 @@ Other changes:
 
 - chore: remove max-parallel
 
-[Compare with the previous release: v1.18.3 ... v1.18.4](https://github.com/softvisio-node/sqlite/compare/v1.18.3...v1.18.4)
+[Compare with the previous release: v1.18.3 ... v1.18.4](https://github.com/c0rejs/sqlite/compare/v1.18.3...v1.18.4)
 
 ### 1.18.3 (2024-11-27)
 
@@ -455,7 +455,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.18.2 ... v1.18.3](https://github.com/softvisio-node/sqlite/compare/v1.18.2...v1.18.3)
+[Compare with the previous release: v1.18.2 ... v1.18.3](https://github.com/c0rejs/sqlite/compare/v1.18.2...v1.18.3)
 
 ### 1.18.2 (2024-11-27)
 
@@ -463,7 +463,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.18.1 ... v1.18.2](https://github.com/softvisio-node/sqlite/compare/v1.18.1...v1.18.2)
+[Compare with the previous release: v1.18.1 ... v1.18.2](https://github.com/c0rejs/sqlite/compare/v1.18.1...v1.18.2)
 
 ### 1.18.1 (2024-11-26)
 
@@ -471,7 +471,7 @@ Fixes:
 
 - fix: fix builder
 
-[Compare with the previous release: v1.18.0 ... v1.18.1](https://github.com/softvisio-node/sqlite/compare/v1.18.0...v1.18.1)
+[Compare with the previous release: v1.18.0 ... v1.18.1](https://github.com/c0rejs/sqlite/compare/v1.18.0...v1.18.1)
 
 ### 1.18.0 (2024-11-26)
 
@@ -479,7 +479,7 @@ Features:
 
 - feat: better-sqlite3 v11.6.0
 
-[Compare with the previous release: v1.17.9 ... v1.18.0](https://github.com/softvisio-node/sqlite/compare/v1.17.9...v1.18.0)
+[Compare with the previous release: v1.17.9 ... v1.18.0](https://github.com/c0rejs/sqlite/compare/v1.17.9...v1.18.0)
 
 ### 1.17.9 (2024-11-11)
 
@@ -487,7 +487,7 @@ Other changes:
 
 - chore: refactor external resource builder
 
-[Compare with the previous release: v1.17.8 ... v1.17.9](https://github.com/softvisio-node/sqlite/compare/v1.17.8...v1.17.9)
+[Compare with the previous release: v1.17.8 ... v1.17.9](https://github.com/c0rejs/sqlite/compare/v1.17.8...v1.17.9)
 
 ### 1.17.8 (2024-11-10)
 
@@ -495,7 +495,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.17.7 ... v1.17.8](https://github.com/softvisio-node/sqlite/compare/v1.17.7...v1.17.8)
+[Compare with the previous release: v1.17.7 ... v1.17.8](https://github.com/c0rejs/sqlite/compare/v1.17.7...v1.17.8)
 
 ### 1.17.7 (2024-11-07)
 
@@ -503,7 +503,7 @@ Other changes:
 
 - chore: set parallel build
 
-[Compare with the previous release: v1.17.6 ... v1.17.7](https://github.com/softvisio-node/sqlite/compare/v1.17.6...v1.17.7)
+[Compare with the previous release: v1.17.6 ... v1.17.7](https://github.com/c0rejs/sqlite/compare/v1.17.6...v1.17.7)
 
 ### 1.17.6 (2024-11-07)
 
@@ -511,7 +511,7 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.17.5 ... v1.17.6](https://github.com/softvisio-node/sqlite/compare/v1.17.5...v1.17.6)
+[Compare with the previous release: v1.17.5 ... v1.17.6](https://github.com/c0rejs/sqlite/compare/v1.17.5...v1.17.6)
 
 ### 1.17.5 (2024-11-04)
 
@@ -519,7 +519,7 @@ Other changes:
 
 - chore: update node versions
 
-[Compare with the previous release: v1.17.4 ... v1.17.5](https://github.com/softvisio-node/sqlite/compare/v1.17.4...v1.17.5)
+[Compare with the previous release: v1.17.4 ... v1.17.5](https://github.com/c0rejs/sqlite/compare/v1.17.4...v1.17.5)
 
 ### 1.17.4 (2024-10-30)
 
@@ -527,7 +527,7 @@ Other changes:
 
 - chore: update node versions
 
-[Compare with the previous release: v1.17.3 ... v1.17.4](https://github.com/softvisio-node/sqlite/compare/v1.17.3...v1.17.4)
+[Compare with the previous release: v1.17.3 ... v1.17.4](https://github.com/c0rejs/sqlite/compare/v1.17.3...v1.17.4)
 
 ### 1.17.3 (2024-10-29)
 
@@ -535,7 +535,7 @@ Other changes:
 
 - chore: update docs
 
-[Compare with the previous release: v1.17.2 ... v1.17.3](https://github.com/softvisio-node/sqlite/compare/v1.17.2...v1.17.3)
+[Compare with the previous release: v1.17.2 ... v1.17.3](https://github.com/c0rejs/sqlite/compare/v1.17.2...v1.17.3)
 
 ### 1.17.2 (2024-10-24)
 
@@ -543,13 +543,13 @@ Other changes:
 
 - chore: update package metadata
 
-[Compare with the previous release: v1.17.1 ... v1.17.2](https://github.com/softvisio-node/sqlite/compare/v1.17.1...v1.17.2)
+[Compare with the previous release: v1.17.1 ... v1.17.2](https://github.com/c0rejs/sqlite/compare/v1.17.1...v1.17.2)
 
 ### 1.17.1 (2024-10-22)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/sqlite/compare/v1.17.0...v1.17.1)
+[Full list of the changes](https://github.com/c0rejs/sqlite/compare/v1.17.0...v1.17.1)
 
 ### 1.17.0 (2024-10-22)
 
@@ -557,25 +557,25 @@ Features:
 
 - feat: better-sqlite3 v11.5.0
 
-[Full list of the changes](https://github.com/softvisio-node/sqlite/compare/v1.16.3...v1.17.0)
+[Full list of the changes](https://github.com/c0rejs/sqlite/compare/v1.16.3...v1.17.0)
 
 ### 1.16.3 (2024-10-20)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/sqlite/compare/v1.16.2...v1.16.3)
+[Full list of the changes](https://github.com/c0rejs/sqlite/compare/v1.16.2...v1.16.3)
 
 ### 1.16.2 (2024-10-18)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/sqlite/compare/v1.16.1...v1.16.2)
+[Full list of the changes](https://github.com/c0rejs/sqlite/compare/v1.16.1...v1.16.2)
 
 ### 1.16.1 (2024-10-18)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/sqlite/compare/v1.16.0...v1.16.1)
+[Full list of the changes](https://github.com/c0rejs/sqlite/compare/v1.16.0...v1.16.1)
 
 ### 1.16.0 (2024-10-18)
 
@@ -583,19 +583,19 @@ Features:
 
 - feat: update better-sqlite v11.4.0
 
-[Full list of the changes](https://github.com/softvisio-node/sqlite/compare/v1.15.89...v1.16.0)
+[Full list of the changes](https://github.com/c0rejs/sqlite/compare/v1.15.89...v1.16.0)
 
 ### 1.15.89 (2024-10-16)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/sqlite/compare/v1.15.88...v1.15.89)
+[Full list of the changes](https://github.com/c0rejs/sqlite/compare/v1.15.88...v1.15.89)
 
 ### 1.15.88 (2024-10-16)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/sqlite/compare/v1.15.87...v1.15.88)
+[Full list of the changes](https://github.com/c0rejs/sqlite/compare/v1.15.87...v1.15.88)
 
 ### 1.15.87 (2024-10-11)
 
@@ -603,7 +603,7 @@ Fixes:
 
 - fix: sqlite download url
 
-[Full list of the changes](https://github.com/softvisio-node/sqlite/compare/v1.15.86...v1.15.87)
+[Full list of the changes](https://github.com/c0rejs/sqlite/compare/v1.15.86...v1.15.87)
 
 ### 1.15.86 (2024-10-11)
 
@@ -611,13 +611,13 @@ Fixes:
 
 - fix: sqlite download url
 
-[Full list of the changes](https://github.com/softvisio-node/sqlite/compare/v1.15.85...v1.15.86)
+[Full list of the changes](https://github.com/c0rejs/sqlite/compare/v1.15.85...v1.15.86)
 
 ### 1.15.85 (2024-10-11)
 
 No notable changes since the previous release.
 
-[Full list of the changes](https://github.com/softvisio-node/sqlite/compare/v1.15.84...v1.15.85)
+[Full list of the changes](https://github.com/c0rejs/sqlite/compare/v1.15.84...v1.15.85)
 
 ### 1.15.84 (2024-10-09)
 
