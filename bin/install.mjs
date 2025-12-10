@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 
-import externalResources from "@softvisio/utils/external-resources";
+import externalResources from "@c0rejs/utils/external-resources";
 
 externalResources.add( {
     "id": "softvisio-node/sqlite",

@@ -1,5 +1,5 @@
 {
-    "name": "@softvisio/sqlite",
+    "name": "@c0rejs/sqlite",
     "version": "1.28.22",
     "description": "better-sqlite3 re-packed",
     "homepage": "https://softvisio-node.github.io/sqlite/",
@@ -30,6 +30,6 @@
         "install": "node bin/install.mjs"
     },
     "peerDependencies": {
-        "@softvisio/utils": "^2.0.0"
+        "@c0rejs/utils": "^2.0.0"
     }
 }
