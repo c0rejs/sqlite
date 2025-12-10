@@ -2,14 +2,14 @@
     "name": "@c0rejs/sqlite-build",
     "version": "1.28.22",
     "private": true,
-    "homepage": "https://softvisio-node.github.io/sqlite/",
+    "homepage": "https://c0rejs.github.io/sqlite/",
     "bugs": {
-        "url": "https://github.com/softvisio-node/sqlite/issues",
+        "url": "https://github.com/c0rejs/sqlite/issues",
         "email": "root <root@softvisio.net>"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/softvisio-node/sqlite.git",
+        "url": "git+https://github.com/c0rejs/sqlite.git",
         "directory": "build"
     },
     "license": "Proprietary Software",
