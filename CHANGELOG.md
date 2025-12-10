@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.28.26 (2025-12-10)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [fb363c4](https://github.com/c0rejs/sqlite/commit/fb363c4); 👬 zdm)
+
+Compare with the previous release: [v1.28.25](https://github.com/c0rejs/sqlite/compare/v1.28.25...v1.28.26)
+
 ### v1.28.25 (2025-12-10)
 
 **Other changes:**
