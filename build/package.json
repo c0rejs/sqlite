@@ -1,6 +1,6 @@
 {
     "name": "@c0rejs/sqlite-build",
-    "version": "1.28.28",
+    "version": "1.28.29",
     "private": true,
     "homepage": "https://c0rejs.github.io/sqlite/",
     "bugs": {
