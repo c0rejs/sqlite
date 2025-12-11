@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.28.28 (2025-12-11)
+
+**Bug fixes:**
+
+- \[PATCH] fix: update npmrc (● [893a189](https://github.com/c0rejs/sqlite/commit/893a189); 👬 zdm)
+
+**Other changes:**
+
+- build: migrate to c0rejs namespace (● [079be61](https://github.com/c0rejs/sqlite/commit/079be61); 👬 zdm)
+
+Compare with the previous release: [v1.28.27](https://github.com/c0rejs/sqlite/compare/v1.28.27...v1.28.28)
+
 ### v1.28.27 (2025-12-10)
 
 No changes since the previous release.
