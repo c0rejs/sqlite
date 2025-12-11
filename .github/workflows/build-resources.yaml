@@ -6,10 +6,6 @@ on:
     types:
       - released
 
-permissions:
-  contents: read
-  packages: read
-
 jobs:
   build:
     defaults:
