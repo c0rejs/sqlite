@@ -1,5 +1,15 @@
 # Changelog
 
+### v1.28.34 (2026-01-05)
+
+**Other changes:**
+
+- chore: remove npm @sencha:registry (● [f7960bc](https://github.com/c0rejs/sqlite/commit/f7960bc); 👬 zdm)
+
+- chore: update softvisio/actions version (● [09794ee](https://github.com/c0rejs/sqlite/commit/09794ee); 👬 zdm)
+
+Compare with the previous release: [v1.28.33](https://github.com/c0rejs/sqlite/compare/v1.28.33...v1.28.34)
+
 ### v1.28.33 (2026-01-03)
 
 **Bug fixes:**
