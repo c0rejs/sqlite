@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.28.35 (2026-01-10)
+
+**Other changes:**
+
+- build(deps): bump better-sqlite\@12.6.0 (● [c6dc19d](https://github.com/c0rejs/sqlite/commit/c6dc19d); 👬 zdm)
+
+Compare with the previous release: [v1.28.34](https://github.com/c0rejs/sqlite/compare/v1.28.34...v1.28.35)
+
 ### v1.28.34 (2026-01-05)
 
 **Other changes:**
