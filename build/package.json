@@ -24,6 +24,6 @@
     },
     "dependencies": {
         "@c0rejs/core": "^7.83.13",
-        "better-sqlite3": "12.5.0"
+        "better-sqlite3": "12.6.0"
     }
 }
