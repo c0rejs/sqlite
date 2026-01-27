@@ -1,5 +1,17 @@
 # Changelog
 
+### v1.28.38 (2026-01-27)
+
+**Bug fixes:**
+
+- \[PATCH] fix: fix dependabot (● [b6b5ad3](https://github.com/c0rejs/sqlite/commit/b6b5ad3), [8ed879f](https://github.com/c0rejs/sqlite/commit/8ed879f); 👬 zdm)
+
+**Other changes:**
+
+- chore(metadata): update package metadata (● [d17824d](https://github.com/c0rejs/sqlite/commit/d17824d), [d6fed85](https://github.com/c0rejs/sqlite/commit/d6fed85); 👬 zdm)
+
+Compare with the previous release: [v1.28.37](https://github.com/c0rejs/sqlite/compare/v1.28.37...v1.28.38)
+
 ### v1.28.37 (2026-01-17)
 
 **Other changes:**
