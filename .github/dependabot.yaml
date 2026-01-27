@@ -1,9 +1,4 @@
 version: 2
-registries:
-  npm-github:
-    type: npm-registry
-    url: https://npm.pkg.github.com
-    token: ${{GITHUB_TOKEN}}
 updates:
   - package-ecosystem: github-actions
     directories:
@@ -15,8 +10,6 @@ updates:
       timezone: UTC
     open-pull-requests-limit: 5
   - package-ecosystem: npm
-    registries:
-      - npm-github
     directories:
       - /
       - /build
