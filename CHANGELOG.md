@@ -1,5 +1,11 @@
 # Changelog
 
+### v1.28.40 (2026-01-29)
+
+No changes since the previous release.
+
+Compare with the previous release: [v1.28.39](https://github.com/c0rejs/sqlite/compare/v1.28.39...v1.28.40)
+
 ### v1.28.39 (2026-01-28)
 
 **Other changes:**
