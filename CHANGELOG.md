@@ -1,5 +1,13 @@
 # Changelog
 
+### v1.28.41 (2026-01-31)
+
+**Other changes:**
+
+- chore: rename package (● [9096df5](https://github.com/corejslib/sqlite/commit/9096df5); 👬 zdm)
+
+Compare with the previous release: [v1.28.40](https://github.com/corejslib/sqlite/compare/v1.28.40...v1.28.41)
+
 ### v1.28.40 (2026-01-29)
 
 No changes since the previous release.
