@@ -9,9 +9,8 @@ updates:
     directories:
       - /
     schedule:
-      interval: daily
-      day: monday
-      time: "00:00"
+      interval: cron
+      cronjob: 0 0 * * *
       timezone: UTC
     open-pull-requests-limit: 5
   - package-ecosystem: npm
@@ -20,8 +19,7 @@ updates:
       - /
       - /build
     schedule:
-      interval: weekly
-      day: monday
-      time: "00:00"
+      interval: cron
+      cronjob: 0 0 * * 1
       timezone: UTC
     open-pull-requests-limit: 5
